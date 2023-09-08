@@ -7,14 +7,6 @@
 
 
 
-#variables111
-
-
-
-
-#print (type(impulsiveelements));
-
-
 
 
 
