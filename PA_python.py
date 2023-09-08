@@ -2,12 +2,12 @@
 
 
 
-# this is an application that asks you the price action context and situations , and calculates different scenarios and tells you how much risk is involved to enter a trade
+# this is an application that asks you the price action context and situations , and calculates different senarios and tells you how much risk is involved to enter a trade
 # or how much chances are to succeed the trade and finally tells you to enter a trade or not
 
 
 
-#variables
+#variables111
 
 
 
@@ -42,14 +42,7 @@ totalRRLscore = 10;
 #######################################################################  S/R ZONE Situations  ######################################################################################
 
 
-########## review 10 tips again !!
 
-########## can use inheritence in this section
-
-
-########## or a parent function
-
-######### to use it in other senarios
 
 def zone() :
 
